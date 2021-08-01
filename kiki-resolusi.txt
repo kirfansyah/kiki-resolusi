@@ -3,3 +3,4 @@ Kiki Resolusi
 - CRUD Laravel
 - CRUD AJAX Laravel
 - Vue Js
+- Laravel + Vue
